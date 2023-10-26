@@ -4,6 +4,9 @@
 1 Linear Search
 2 Binary Search - Order Agnostic
 3 Bubble Sort
-2 Selection Sort
+4 Selection Sort
+5 Time Complexity
+6 Space Complexity
+7 Two Pointer Algorithm
 
 ```
