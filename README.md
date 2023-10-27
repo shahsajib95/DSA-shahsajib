@@ -8,5 +8,6 @@
 5 Time Complexity
 6 Space Complexity
 7 Two Pointer Algorithm
+8 Linked List
 
 ```
