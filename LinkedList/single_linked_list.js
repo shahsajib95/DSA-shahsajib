@@ -15,8 +15,6 @@
 
 //10 -> 20 -> 30 -> X
 
-// 38.28
-
 class Node {
   constructor(data, next = null) {
     this.value = data;
@@ -108,4 +106,5 @@ list.update(50, 3);
 list.update(500, 5);
 list.delete(5);
 
-console.log(list);
+// console.log(list);
+
