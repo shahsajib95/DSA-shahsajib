@@ -1,4 +1,4 @@
-﻿# DSA-shahsajib
+﻿# Data Structure and Algorithm -shahsajib
 
 ```
 1 Linear Search
@@ -10,6 +10,7 @@
 7 Two Pointer Algorithm
 8 Linked List
 9 Types of Linked List
-10 Stack, Queue and Deque
+10 Stack, Queue and Dequeue
+11 Hash Map
 
 ```
