@@ -11,6 +11,7 @@
 8 Linked List
 9 Types of Linked List
 10 Stack, Queue and Dequeue
-11 Hash Map
+11 Hash Table
+12 Hash Map
 
 ```
