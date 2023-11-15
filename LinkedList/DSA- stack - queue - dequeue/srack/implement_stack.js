@@ -25,7 +25,7 @@ class MyStack {
         this.q1.enqueue(value)
     }
     pop(){
-        while(true){ //size - 1
+        while(true){ //size - 1 
             this.q2.enqueue(this.q1.dequeue())
         }
     }
